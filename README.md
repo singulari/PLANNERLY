@@ -22,5 +22,5 @@ Login page: username field requires @u.nus.edu
 
 Enrolment and Distribution: available modules are same as those provided in the data lake module enrolment csv file
 
-Recommendation: available modules are mocked up in the data folder
+Recommendation: available modules are mocked up in the data folder Recommendations.csv
 
