@@ -17,10 +17,10 @@ npm run build
 ```
 ## Application Usage
 
-``` bash
+
 Login page: username field requires @u.nus.edu
 
 Enrolment and Distribution: available modules are same as those provided in the data lake module enrolment csv file
 
 Recommendation: available modules are mocked up in the data folder
-```
+
