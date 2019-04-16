@@ -20,7 +20,7 @@ npm run build
 
 Login page: username field requires @u.nus.edu
 
-Enrolment and Distribution: available modules are same as those provided in the data lake module enrolment csv file
+Enrolment and Distribution: available modules are same as those provided in the data lake Module Enrolment csv file, summary statistics for modules are generated from Module Enrolment, Student Feedback Survey and Module Feedback Survey csv files from data lake.
 
 Recommendation: available modules are mocked up in the data folder Recommendations.csv
 
