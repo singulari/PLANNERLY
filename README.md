@@ -1,6 +1,6 @@
 # Plannerly
 
-> A Vue.js project
+> A Vue.js project for BT3103
 
 ## Build Setup
 
